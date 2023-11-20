@@ -1,0 +1,8 @@
+.bg-img {
+    background-image: url("./assets/hero-bg.png");
+    background-size: cover;
+}
+
+.bg-pattern {
+    background-image: url("./assets/pattern.png");
+}
