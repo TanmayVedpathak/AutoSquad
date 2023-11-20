@@ -1,14 +1,14 @@
 # AutoSquad
 
-##Intro
+## Intro
 
 Introducing AutoSquad, the innovative car rental app meticulously crafted with React JS and polished with the sleek styling of Tailwind CSS. Harnessing the power of a third-party API, Cars by API_Ninjas delivers instant details on fuel efficiency, manufacturing year, make, and model with a simple query.
 
-##Preview
+## Preview
 
 ![Test Image 3](/screenshot/Screenshot.png)
 
-##Get Started
+## Get Started
 
 After cloning the code
 
@@ -21,7 +21,7 @@ Create a .env file in your root directory of your folder and add the keys genera
 ```sh
     VITE_RAPIDAPI_KEY =  ""
 ```
-##Development
+## Development
 
 Run the following command to install the app.
 
